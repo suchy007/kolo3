@@ -1,5 +1,7 @@
 // pawel jalocha infotmatyka 94007
 
+//Pole kola o promieniu 2.5 wynosi 19.6349
+
 #include <iostream>
 #include <fstream>
 #include <string>
