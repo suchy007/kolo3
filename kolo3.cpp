@@ -12,9 +12,9 @@ int main(int argc, char **argv) {
   string imie, nazwisko;
   int nr_indeksu;
 
-  cout<<"imie: "; cin>>imie;
-  cout<<"nazwisko: "; cin>>nazwisko;
-  cout<<"nr. indeksu: "; cin>>nr_indeksu;
+  cout<<"imie: Pawel"; cin>>imie;
+  cout<<"nazwisko:Jalocha "; cin>>nazwisko;
+  cout<<"nr. indeksu: 94007"; cin>>nr_indeksu;
 
   plik<<imie<<" "<<nazwisko<<", "<<nr_indeksu<<endl;
   plik.close();
