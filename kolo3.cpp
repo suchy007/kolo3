@@ -1,4 +1,4 @@
-// Imie nazwisko, grupa(specjalnosc), nr. indeksu
+// pawel jalocha infotmatyka 94007
 
 #include <iostream>
 #include <fstream>
